@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.3" orientation="orthogonal" renderorder="left-up" width="15" height="11" tilewidth="40" tileheight="40" nextobjectid="1">
+ <tileset firstgid="1" source="untitled.tsx"/>
+ <layer name="Graminha" width="15" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAMCDCSjkf1jgy95AIAFjEHxg==
+  </data>
+ </layer>
+ <layer name="Destrutiveis" width="15" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAOWAjFuNgL0cQJmUWsfejmYrOXkJnocvj42OzFhbHpxWYuLhqXWkL+RQ9nQvbiUofPXGLcTC4AAKBTJv8=
+  </data>
+ </layer>
+ <layer name="Tijolinho" width="15" height="11">
+  <data encoding="base64" compression="zlib">
+   eJy7xcDAcIsCTA5A1ksOPWrv0LCXXAwAivU9UQ==
+  </data>
+ </layer>
+</map>
